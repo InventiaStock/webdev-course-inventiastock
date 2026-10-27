@@ -1,2 +1,2 @@
 # webdev-course-inventiastock
-Curso en video de HTML y CSS para principiantes
+Curso en video de HTML y CSS para principiantes.
