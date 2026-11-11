@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: aliceblue;
+  color: darkslategray;
+  padding: 20px;
+}
+
+h1 {
+  color: royalblue;
+  text-align: center;
+}
+
+h2 {
+  color: darkslateblue;
+  border-bottom: 2px solid darkslateblue;
+}
+
+.destacado {
+  background-color: lemonchiffon;
+  border: 2px solid orange;
+  padding: 10px;
+}
