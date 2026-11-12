@@ -1,6 +1,6 @@
 # Lección 2: Introducción a HTML
 
-**Duración prevista:** ~10 minutos (ajustable) · **Herramienta:** JSFiddle · **Práctica:** `starter-files/lesson-02`
+**Duración prevista:** ~8 minutos · **Herramienta:** JSFiddle · **Práctica:** `starter-files/lesson-02`
 
 **Objetivo:** que el estudiante comprenda las etiquetas, los elementos, los atributos y la estructura básica de HTML, y escriba un título y dos párrafos.
 
@@ -26,7 +26,7 @@
 
 ## Diapositiva 03 — ¿Qué es un elemento?
 
-**Pantalla:** Primero resaltar apertura <p>, contenido Hola y cierre </p>. Después mostrar demo 01, pulsar Ejecutar y enseñar resultado Hola.
+**Pantalla:** Primero resaltar apertura <p>, contenido Hola y cierre </p>. Después escribir <p>Hola</p> en JSFiddle, pulsar Ejecutar y enseñar el resultado Hola.
 
 **Voz:**
 > El hache te eme ele se escribe con etiquetas. Una etiqueta es una palabra entre los signos menor que y mayor que. Por ejemplo, pe. Casi todas vienen en pareja: una etiqueta de apertura y una etiqueta de cierre, que lleva una barra antes del nombre. Lo que queda entre las dos es el contenido. Las tres cosas juntas forman un elemento. Escribamos uno. Abro la etiqueta pe, escribo Hola, y cierro la etiqueta. Mira el resultado: aparece la palabra Hola. La pe viene de párrafo, y sirve para escribir texto normal. Pero ojo: si olvidas cerrar una etiqueta, el navegador se puede confundir. Por eso, cada vez que abras una, acuérdate de cerrarla.
@@ -62,7 +62,7 @@
 
 ## Diapositiva 07 — Elementos dentro de otros
 
-**Pantalla:** Mostrar <em> dentro de <p>. Pegar demo 02 y pulsar Ejecutar; la palabra mucho debe aparecer inclinada. Evitar grabar el menú de autocompletado.
+**Pantalla:** Mostrar <em> dentro de <p>. Escribir el ejemplo con <em> y pulsar Ejecutar; la palabra mucho debe aparecer inclinada. Evitar grabar el menú de autocompletado.
 
 **Voz:**
 > Los elementos se pueden poner uno dentro de otro, como cajas dentro de cajas. Por ejemplo, dentro de un párrafo puedo resaltar una palabra con la etiqueta e eme. Escribo: Me gusta, abro e eme, escribo mucho, cierro e eme, y sigo con: programar. Mira: la palabra mucho aparece inclinada. Fíjate en el orden: la etiqueta que abrí al último es la primera que cierro. Es como cerrar cajas: primero cierras la de adentro y después la de afuera. 
@@ -71,7 +71,7 @@
 
 ## Diapositiva 08 — La sangría ordena tu código
 
-**Pantalla:** Mostrar comparación sin sangría y con sangría. Si lo grabas, usar demos 03a y 03b, uno después del otro.
+**Pantalla:** Mostrar comparación sin sangría y con sangría. Si lo grabas, mostrar primero el código sin sangría y después el código con sangría.
 
 **Voz:**
 > Cuando uses muchas etiquetas, ayuda dejar espacios al inicio de cada línea, para ver qué está dentro de qué. Eso se llama sangría, y hace que tu código sea mucho más fácil de leer.
@@ -80,7 +80,7 @@
 
 ## Diapositiva 09 — Títulos y párrafos
 
-**Pantalla:** Mostrar demo 04 con un h1 y dos párrafos. Pulsar Ejecutar para ver el resultado.
+**Pantalla:** Mostrar un ejemplo con un h1 y dos párrafos. Pulsar Ejecutar para ver el resultado.
 
 **Voz:**
 > Ahora escribamos contenido. Escribo hache uno: Mi primera página. Y para los textos usamos la etiqueta pe. Escribo un párrafo: Hola, me llamo Alex y estoy aprendiendo a crear páginas web. Cada párrafo va en su propia etiqueta pe. Si escribo otro párrafo, aparece debajo, separado del anterior.
@@ -89,7 +89,7 @@
 
 ## Diapositiva 10 — Comparar h1, h2 y h3
 
-**Pantalla:** Pegar demo 05 temporal, pulsar Ejecutar y comparar tamaños. Después volver a demo 04 para no guardar h2/h3 como resultado final.
+**Pantalla:** Escribir un ejemplo temporal con h1, h2 y h3, pulsar Ejecutar y comparar tamaños. Después volver al ejemplo anterior para no guardar h2/h3 como resultado final.
 
 **Voz:**
 > Para los títulos existen las etiquetas hache uno, hache dos, hache tres, y así hasta hache seis. El hache uno es el más grande y el más importante, y el hache seis es el más pequeño. Normalmente usamos un solo hache uno por página, como título principal. Mira cómo cambia la jerarquía entre hache uno, hache dos y hache tres. Después dejamos nuestro ejemplo con un solo título principal y dos párrafos.
@@ -98,7 +98,7 @@
 
 ## Diapositiva 11 — Comentarios en el código
 
-**Pantalla:** Pegar demo 06 con <!-- comentario --> al inicio. Pulsar Ejecutar: el comentario no debe mostrarse en el resultado.
+**Pantalla:** Escribir un ejemplo con <!-- comentario --> al inicio. Pulsar Ejecutar: el comentario no debe mostrarse en el resultado.
 
 **Voz:**
 > Un truco más: a veces quieres dejar una nota para ti sin que se vea en la página. Para eso existen los comentarios. Se escriben con un signo menor que, una exclamación y dos guiones, y se cierran con dos guiones y un signo mayor que. Mira: escribo un comentario que dice: aquí va mi título. En el resultado no aparece, pero en el código sí queda. Y una cosa muy importante: equivocarse es normal. Si algo no se ve como esperabas, pasa por tu código con calma y revisa si cada etiqueta que abriste tiene su cierre, y si los atributos tienen sus comillas. Con la práctica encontrarás los errores cada vez más rápido. En la última lección veremos cómo.
@@ -129,7 +129,6 @@
 
 **Voz:**
 > Lo que aprendiste hoy: una etiqueta se abre y se cierra; los atributos dan información extra; y toda página tiene head y body. Ya tienes tu primera página. En la próxima lección agregaremos listas, imágenes y enlaces. ¡Hasta pronto!
-````
 
 ---
 
