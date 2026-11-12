@@ -4,50 +4,67 @@
 
 Este curso de aproximadamente 1 hora introduce a estudiantes de secundaria a la creación de sitios web sencillos con HTML y CSS. **¡No requiere descargas!** Solo abre tu navegador web.
 
-**Duración total**: 53 minutos y 22 segundos de video, más el tiempo de práctica en cada lección (≈ 1 hora de aprendizaje)
-**Público objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación
-**Prerrequisitos**: Ninguno
+**Duración total**: 53 minutos y 22 segundos de video, más el tiempo de práctica en cada lección (≈ 1 hora de aprendizaje)  
+**Público objetivo**: Estudiantes de 12 a 17 años sin experiencia en programación  
+**Prerrequisitos**: Ninguno  
 **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)
 
-**📂 Repositorio de código fuente**: [https://github.com/InventiaStock/webdev-course-inventiastock](https://github.com/InventiaStock/webdev-course-inventiastock)
+**Repositorio de código fuente**: [https://github.com/InventiaStock/webdev-course-inventiastock](https://github.com/InventiaStock/webdev-course-inventiastock)
+
+## Objetivos del Curso
+
+Al finalizar el curso, los estudiantes serán capaces de:
+
+- Explicar de qué están hechos los sitios web y qué función cumplen HTML y CSS.
+- Escribir la estructura básica de una página con etiquetas, elementos y atributos de HTML.
+- Agregar títulos, párrafos, listas, imágenes y enlaces a una página.
+- Dar estilo a una página con colores, letras, bordes y espacios usando CSS.
+- Crear una página de perfil personal combinando HTML y CSS.
+- Encontrar y corregir errores comunes con el validador del W3C y el inspector del navegador.
 
 ## Secuencia de la lección
 
 ### Lección 1: ¿Qué es el desarrollo web? (5 min 13 s)
 - **Descripción**: Aprende de qué están hechos los sitios web y por qué HTML y CSS son los componentes básicos.
+- **Temas principales**: Qué es un sitio web, para qué sirven HTML y CSS, cómo se ve una página en el navegador y cómo cambiar el título de una página en JSFiddle.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=H3NH5MLKntg)
 - **Consejos clave**: Sitios web = Contenido (HTML) + Estilo (CSS).
-- **Empieza a programar**: [Abrir el editor](https://jsfiddle.net/90peckfs/1/) 👈 **¡No necesitas registrarte!**
+- **Empieza a programar**: [Abrir el editor](https://jsfiddle.net/90peckfs/1/) — **¡No necesitas registrarte!**
 
 ### Lección 2: Introducción a HTML (8 min 04 s)
 - **Descripción**: Explora las etiquetas, los elementos y los atributos de HTML, conoce la estructura de una página y crea tu primera página.
+- **Temas principales**: Etiquetas, elementos y atributos; la estructura básica de una página (`<!DOCTYPE html>`, `<html>`, `<head>`, `<meta>`, `<title>` y `<body>`); títulos, párrafos, comentarios y sangría.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=s2GweO5BYIA)
 - **Consejos clave**: Toda etiqueta que se abre, se cierra. Usa `<html>`, `<head>`, `<body>`, `<h1>` y `<p>`.
-- **Práctica**: [Clic para programar](https://jsfiddle.net/3xv65c7m/) 👈 **¡No necesitas registrarte!**
+- **Práctica**: [Clic para programar](https://jsfiddle.net/3xv65c7m/) — **¡No necesitas registrarte!**
 
 ### Lección 3: Más elementos HTML (5 min 12 s)
 - **Descripción**: Agrega listas, imágenes y enlaces para que tu página tenga más contenido.
+- **Temas principales**: Listas con `<ul>`, `<ol>` y `<li>`; imágenes con `<img>`, `src` y `alt`; enlaces con `<a>` y `href`.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=stInCQJKZqI)
 - **Consejos clave**: Usa `<ul>`, `<ol>` y `<li>` para listas; `<img>` siempre con `alt`; `<a href>` para enlaces.
-- **Práctica**: [Clic para programar](https://jsfiddle.net/curso_web_secundaria/0Lgaq81k/3/) 👈 **¡Comienza al instante!**
+- **Práctica**: [Clic para programar](https://jsfiddle.net/curso_web_secundaria/0Lgaq81k/3/) — **¡Comienza al instante!**
 
 ### Lección 4: CSS y estilo simple (11 min 05 s)
 - **Descripción**: Dale estilo a tu HTML con colores, letras, bordes y espacios.
+- **Temas principales**: Selectores, propiedades y valores; colores, tipos de letra, bordes y espacios; clases de CSS.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=jGSwjDkOqQM)
 - **Consejos clave**: Una regla de CSS = selector + propiedad + valor. Las clases se escriben con un punto: `.destacado { ... }`.
-- **Práctica**: [Aplicar estilo con un clic](https://jsfiddle.net/curso_web_secundaria/nuch7dkL/1/) 👈 **¡No es necesario registrarse!**
+- **Práctica**: [Aplicar estilo con un clic](https://jsfiddle.net/curso_web_secundaria/nuch7dkL/1/) — **¡No es necesario registrarse!**
 
 ### Lección 5: Crear una página web sencilla (12 min 59 s)
 - **Descripción**: Combina HTML y CSS para crear una página de perfil personal y aprende a encontrar errores.
+- **Temas principales**: Cómo planear una página, combinar HTML y CSS en una página de perfil personal y encontrar errores cambiando una sola cosa a la vez.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=8NTXde82TQc)
 - **Consejos clave**: Planea antes de escribir y cambia una sola cosa a la vez.
-- **Proyecto final**: [Crea tu perfil](https://jsfiddle.net/curso_web_secundaria/yncs5Lht/3/) 👈 **¡Guarda y comparte tu trabajo!**
+- **Proyecto final**: [Crea tu perfil](https://jsfiddle.net/curso_web_secundaria/yncs5Lht/3/) — **¡Guarda y comparte tu trabajo!**
 
 ### Lección 6: Errores comunes y próximos pasos (10 min 49 s)
 - **Descripción**: Conoce los cinco errores más comunes, cómo buscarlos con el validador y el inspector, y dónde seguir aprendiendo.
+- **Temas principales**: Los cinco errores más comunes en HTML y CSS, el validador del W3C, el inspector del navegador, documentación de MDN y ideas para seguir aprendiendo.
 - **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=4fsYS1zoavQ)
 - **Consejos clave**: Valida tu código y explora la documentación de MDN en español.
-- **Práctica**: [Corrige la página](https://jsfiddle.net/curso_web_secundaria/8u3vcsL6/2/) 👈 **¡Encuentra los 5 errores!**
+- **Práctica**: [Corrige la página](https://jsfiddle.net/curso_web_secundaria/8u3vcsL6/2/) — **¡Encuentra los 5 errores!**
 
 ## Recursos Adicionales
 - **Código fuente completo**: [Repositorio de GitHub](https://github.com/InventiaStock/webdev-course-inventiastock)
@@ -65,20 +82,44 @@ Este curso de aproximadamente 1 hora introduce a estudiantes de secundaria a la 
 - **Documentación para seguir aprendiendo**: [MDN Web Docs en español](https://developer.mozilla.org/es/)
 - **Revisar tu código**: [Validador de HTML del W3C](https://validator.w3.org/#validate_by_input) · [Validador de CSS del W3C](https://jigsaw.w3.org/css-validator/#validate_by_input)
 
+## Cómo usar el curso
+
+1. Mira el video de la lección en YouTube.
+2. Abre el enlace de práctica (Starter) en JSFiddle. No necesitas registrarte.
+3. Pausa el video cuando se indique y escribe el código tú mismo.
+4. Compara tu resultado con el ejemplo terminado (Completed).
+5. Avanza a la siguiente lección.
+
+## Estructura del Repositorio
+
+```text
+webdev-course-inventiastock/
+├── README.md
+├── course-plan.md
+├── assets/miniaturas/       # Imágenes de las lecciones
+├── scripts/                 # Guiones de las seis lecciones
+├── starter-files/           # Código inicial de cada práctica
+└── completed-examples/      # Ejemplos resueltos
+```
+
+## Conclusión
+
+Con estas seis lecciones, los estudiantes crean su primera página web con HTML y CSS, aprenden a revisar sus errores y saben dónde seguir aprendiendo, todo desde el navegador y sin instalar nada.
+
 **¡Gracias por completar el curso!**
 
 ---
 
-## 👥 Elaboración
+## Elaboración
 
-Universidad Peruana de Ciencias Aplicadas
-Carrera de Ingeniería de Software
-Período 202620
-1ASI0730 Aplicaciones Web
+Universidad Peruana de Ciencias Aplicadas  
+Carrera de Ingeniería de Software  
+Período 202620  
+1ASI0730 Aplicaciones Web  
 NRC 8168
 
-**Nombre del equipo**: InventiaStock
-**Líder del equipo**: Montañez Salinas, Lorena Ariana
+**Nombre del equipo**: InventiaStock  
+**Líder del equipo**: Montañez Salinas, Lorena Ariana  
 **Integrantes del equipo**:
 - Montañez Salinas, Lorena Ariana
 - Lopez Rimachi, Sebastian Leonardo

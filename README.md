@@ -191,7 +191,7 @@ webdev-course-inventiastock/
 
 ## 👥 Elaboración
 
-**Universidad Peruana de Ciencias Aplicadas** · Carrera de Ingeniería de Software · Período 202620
+**Universidad Peruana de Ciencias Aplicadas** · Carrera de Ingeniería de Software · Período 202620  
 **Curso:** 1ASI0730 Aplicaciones Web · **NRC:** 8168
 
 | | |
