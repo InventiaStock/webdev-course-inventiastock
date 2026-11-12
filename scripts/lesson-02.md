@@ -26,7 +26,7 @@
 
 ## Diapositiva 03 — ¿Qué es un elemento?
 
-**Pantalla:** Primero resaltar apertura <p>, contenido Hola y cierre </p>. Después escribir <p>Hola</p> en JSFiddle, pulsar Ejecutar y enseñar el resultado Hola.
+**Pantalla:** Primero resaltar apertura `<p>`, contenido Hola y cierre `</p>`. Después escribir `<p>Hola</p>` en JSFiddle, pulsar Ejecutar y enseñar el resultado Hola.
 
 **Voz:**
 > El hache te eme ele se escribe con etiquetas. Una etiqueta es una palabra entre los signos menor que y mayor que. Por ejemplo, pe. Casi todas vienen en pareja: una etiqueta de apertura y una etiqueta de cierre, que lleva una barra antes del nombre. Lo que queda entre las dos es el contenido. Las tres cosas juntas forman un elemento. Escribamos uno. Abro la etiqueta pe, escribo Hola, y cierro la etiqueta. Mira el resultado: aparece la palabra Hola. La pe viene de párrafo, y sirve para escribir texto normal. Pero ojo: si olvidas cerrar una etiqueta, el navegador se puede confundir. Por eso, cada vez que abras una, acuérdate de cerrarla.
@@ -35,7 +35,7 @@
 
 ## Diapositiva 04 — ¿Qué es un atributo?
 
-**Pantalla:** Resaltar en <html lang="es"> el nombre lang, el signo = y el valor "es". No necesitas pegar la etiqueta html en JSFiddle.
+**Pantalla:** Resaltar en `<html lang="es">` el nombre lang, el signo = y el valor "es". No necesitas pegar la etiqueta html en JSFiddle.
 
 **Voz:**
 > A veces una etiqueta necesita información extra. Para eso existen los atributos. Un atributo se escribe dentro de la etiqueta de apertura, con un nombre, un signo igual y un valor entre comillas. Por ejemplo, en la etiqueta hache te eme ele podemos escribir el atributo lang igual a es. Con eso le decimos al navegador que la página está en español. Más adelante usaremos otros atributos para las imágenes y los enlaces. Por ahora recuerda esto: el atributo va dentro de la etiqueta de apertura, y su valor va entre comillas.
@@ -44,7 +44,7 @@
 
 ## Diapositiva 05 — Estructura básica de HTML
 
-**Pantalla:** Resaltar <!DOCTYPE html>, <html>, <head>, <meta>, <title> y <body>, en el orden en que se explican. La estructura completa está guardada en el archivo del repositorio.
+**Pantalla:** Resaltar `<!DOCTYPE html>`, `<html>`, `<head>`, `<meta>`, `<title>` y `<body>`, en el orden en que se explican. La estructura completa está guardada en el archivo del repositorio.
 
 **Voz:**
 > Toda página hache te eme ele tiene la misma estructura básica. Vamos por partes. Primero, una línea especial que dice doctype html. Le avisa al navegador que usaremos la versión moderna del hache te eme ele. Después viene la etiqueta html, que envuelve todo. Dentro hay dos grandes partes. 
@@ -62,7 +62,7 @@
 
 ## Diapositiva 07 — Elementos dentro de otros
 
-**Pantalla:** Mostrar <em> dentro de <p>. Escribir el ejemplo con <em> y pulsar Ejecutar; la palabra mucho debe aparecer inclinada. Evitar grabar el menú de autocompletado.
+**Pantalla:** Mostrar `<em>` dentro de `<p>`. Escribir el ejemplo con `<em>` y pulsar Ejecutar; la palabra mucho debe aparecer inclinada. Evitar grabar el menú de autocompletado.
 
 **Voz:**
 > Los elementos se pueden poner uno dentro de otro, como cajas dentro de cajas. Por ejemplo, dentro de un párrafo puedo resaltar una palabra con la etiqueta e eme. Escribo: Me gusta, abro e eme, escribo mucho, cierro e eme, y sigo con: programar. Mira: la palabra mucho aparece inclinada. Fíjate en el orden: la etiqueta que abrí al último es la primera que cierro. Es como cerrar cajas: primero cierras la de adentro y después la de afuera. 
@@ -98,7 +98,7 @@
 
 ## Diapositiva 11 — Comentarios en el código
 
-**Pantalla:** Escribir un ejemplo con <!-- comentario --> al inicio. Pulsar Ejecutar: el comentario no debe mostrarse en el resultado.
+**Pantalla:** Escribir un ejemplo con `<!-- comentario -->` al inicio. Pulsar Ejecutar: el comentario no debe mostrarse en el resultado.
 
 **Voz:**
 > Un truco más: a veces quieres dejar una nota para ti sin que se vea en la página. Para eso existen los comentarios. Se escriben con un signo menor que, una exclamación y dos guiones, y se cierran con dos guiones y un signo mayor que. Mira: escribo un comentario que dice: aquí va mi título. En el resultado no aparece, pero en el código sí queda. Y una cosa muy importante: equivocarse es normal. Si algo no se ve como esperabas, pasa por tu código con calma y revisa si cada etiqueta que abriste tiene su cierre, y si los atributos tienen sus comillas. Con la práctica encontrarás los errores cada vez más rápido. En la última lección veremos cómo.
