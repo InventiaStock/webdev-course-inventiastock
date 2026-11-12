@@ -8,7 +8,7 @@
 
 ---
 
-## Escena 1 · 0:00–0:16 · Introducción
+## Escena 1 · Introducción
 
 **Pantalla:** Tarjeta «Lección 6: Errores comunes y próximos pasos». Después, el fiddle con la página con errores.
 
@@ -17,7 +17,7 @@
 
 ---
 
-## Escena 2 · 0:16–0:40 · Los errores son normales
+## Escena 2 · Los errores son normales
 
 **Pantalla:** Texto en pantalla: «Todo el mundo se equivoca al empezar». Mostrar un código con varios errores y una flecha que dice «Es parte del proceso».
 
@@ -26,24 +26,34 @@
 
 ---
 
-## Escena 3 · 0:40–3:24 · Cinco errores comunes
+## Escena 3 · Cinco errores comunes
 
-**Pantalla:** Mostrar la página con errores en el fiddle. Para cada error: primero el síntoma en el resultado (recuadro rojo), luego la línea del código que lo causa (recuadro) y por último la corrección. Texto en pantalla con el número y el nombre de cada error: «Error 1: etiqueta sin cerrar», «Error 2: falta un punto y coma», «Error 3: imagen sin alt», «Error 4: ruta equivocada», «Error 5: nombre mal escrito».
+**Pantalla:** Mostrar la página con errores en el fiddle. Para cada error: primero el síntoma en el resultado (recuadro rojo), luego la línea del código que lo causa (recuadro) y por último la corrección. Antes de cada error, una pausa corta «Pausa y adivina» (la voz plantea el síntoma y se deja 10 s en silencio). Texto en pantalla con el número y el nombre de cada error: «Error 1: etiqueta sin cerrar», «Error 2: falta un punto y coma», «Error 3: imagen sin alt», «Error 4: ruta equivocada», «Error 5: nombre mal escrito».
 
 **Voz:**
+> **[Pausa y adivina 1]** Empecemos con un reto. Mira la página: algo se ve raro en la lista de hobbies. Pausa el video y piensa qué puede estar pasando. *(10 segundos de silencio con el resultado fijo en pantalla.)*
+>
 > Error número uno: una etiqueta sin cerrar. Mira esta lista de hobbies: se ve enorme y en negrita, como si fuera un título. Revisamos el código y vemos que el hache dos de Mis hobbies no tiene su etiqueta de cierre. El navegador pensó que todo lo que sigue era parte del título. Agregamos la etiqueta de cierre, y la lista vuelve a verse normal. Regla: cada vez que abras una etiqueta, ciérrala de inmediato.
+>
+> **[Pausa y adivina 2]** Segundo reto. Los títulos deberían tener color y una línea debajo, pero se ven normales. Pausa el video y piensa qué puede faltar. *(10 segundos de silencio con el resultado fijo en pantalla.)*
 >
 > Error número dos: olvidar un punto y coma en el ce ese ese. Aquí queremos que los títulos tengan color y una línea debajo, pero no pasa nada. Revisamos la regla del hache dos: falta el punto y coma después del color. El navegador junta las dos líneas, no las entiende, y las ignora. Lo agregamos, y funciona.
 >
+> **[Pausa y adivina 3]** Tercer reto, y este es más difícil. La imagen se ve bien, pero falta algo importante en el código. Pausa el video y piensa qué puede ser. *(10 segundos de silencio con el resultado fijo en pantalla.)*
+>
 > Error número tres: olvidar el atributo alt en una imagen. Este error no se ve a simple vista, y por eso es peligroso. La imagen aparece bien, pero una persona que usa un lector de pantalla no sabrá qué hay en ella. Agregamos un alt que describa lo que se ve.
 >
+> **[Pausa y adivina 4]** Cuarto reto. Fíjate en la imagen: aparece un ícono roto. Pausa el video y piensa por qué no se muestra. *(10 segundos de silencio con el resultado fijo en pantalla.)*
+>
 > Error número cuatro: una ruta equivocada. Esta imagen muestra un ícono roto. El ese erre ce apunta a una carpeta llamada imágenes, pero ese archivo no existe. Si la imagen está en internet, copia la dirección completa y comprueba que abre en una pestaña nueva.
+>
+> **[Pausa y adivina 5]** Último reto. Este párrafo debería verse destacado, pero se ve normal. Pausa el video y piensa qué está pasando. *(10 segundos de silencio con el resultado fijo en pantalla.)*
 >
 > Error número cinco: un nombre mal escrito. En el hache te eme ele escribimos destacdo, sin la o, pero en el ce ese ese la clase se llama destacado. Para el navegador son nombres distintos, y por eso no aplica el estilo. Los nombres deben ser idénticos, letra por letra.
 
 ---
 
-## Escena 4 · 3:24–4:54 · Cómo buscar un error
+## Escena 4 · Cómo buscar un error
 
 **Pantalla:** Tarjeta con cinco pasos que aparecen uno a uno. Después, abrir el validador de HTML del W3C («Validate by Direct Input»), pegar el código de `starter-files/lesson-06/index.html` y mostrar la lista de mensajes con el número de línea; marcar el mensaje del `h2` y el del `alt`. Abrir el validador de CSS, pegar el CSS y mostrar el mensaje del punto y coma. Texto en pantalla: «El validador no encuentra todos los errores: el nombre mal escrito y la ruta se descubren mirando el resultado».
 
@@ -52,7 +62,7 @@
 
 ---
 
-## Escena 5 · 4:54–5:41 · El inspector del navegador
+## Escena 5 · El inspector del navegador
 
 **Pantalla:** Hacer clic derecho sobre un título en el resultado y elegir «Inspeccionar». Mostrar el panel con el hache te eme ele y los estilos que se aplican. Texto en pantalla: «Clic derecho → Inspeccionar» y «Funciona en Chrome, Firefox y Edge».
 
@@ -61,7 +71,7 @@
 
 ---
 
-## Escena 6 · 5:41–6:19 · Buenas prácticas
+## Escena 6 · Buenas prácticas
 
 **Pantalla:** Tarjeta con cinco consejos que aparecen uno a uno: «Sangría: deja espacios para ver qué está dentro de qué», «Nombres claros para las clases», «Siempre escribe el alt», «Guarda y prueba seguido», «Comenta tu código con `<!-- -->`». Mostrar un ejemplo corto de código con y sin sangría.
 
@@ -70,7 +80,7 @@
 
 ---
 
-## Escena 7 · 6:19–6:46 · Cómo pedir ayuda
+## Escena 7 · Cómo pedir ayuda
 
 **Pantalla:** Mostrar un mensaje de ejemplo bueno: «Mi título no cambia de color. Esta es mi regla de CSS y esta es mi página». Contrastar con un mensaje malo: «No funciona».
 
@@ -79,18 +89,40 @@
 
 ---
 
-## Escena 8 · 6:46–8:39 · Práctica
+## Escena 8 · Mini repaso
 
-**Pantalla:** Aviso grande «⏸️ Pausa el video y practica». Texto en pantalla: «Abre el link: es la misma página con los 5 errores» y «Corrígelos sin mirar el video». Dejar 90 segundos con el fiddle abierto y sin voz.
+**Pantalla:** Tres preguntas en pantalla, una por una, con 7 segundos de silencio después de cada una. Al final, una tarjeta con las tres respuestas.
+
+**Voz:**
+> Antes de practicar, hagamos un repaso rápido de un minuto. Te haré tres preguntas. Después de cada una, pausa el video y piensa tu respuesta.
+>
+> Pregunta uno. Si abres una etiqueta y no la cierras, ¿qué puede pasar? *(7 s de silencio.)*
+>
+> Pregunta dos. ¿Para qué sirve el atributo alt en una imagen? *(7 s de silencio.)*
+>
+> Pregunta tres. ¿Qué haces si un estilo del ce ese ese no se aplica? *(7 s de silencio.)*
+>
+> Respuestas. Uno: el navegador puede mezclar lo que sigue con esa etiqueta, y la página se ve rara. Dos: el alt describe la imagen para quien no puede verla. Tres: revisa si falta un punto y coma, si el nombre está bien escrito y mira el inspector del navegador. ¡Muy bien! Ahora sí, a practicar.
+
+---
+
+## Escena 9 · Práctica
+
+**Pantalla:** Aviso grande «⏸️ Pausa el video y practica». Texto en pantalla: «Abre el link: es la misma página con los 5 errores» y «Corrígelos sin mirar el video». Dejar 150 segundos (2 min 30 s) con el fiddle abierto y sin voz.
 
 **Voz:**
 > Es tu turno. Abre el link de la descripción. Es la misma página con los cinco errores. Intenta corregirlos sin mirar el video, usando los pasos que acabas de aprender. Pausa el video y practica.
 
-*(Silencio de 90 segundos.)*
+*(Silencio de 150 segundos.)*
+
+**Después de la práctica — Voz:**
+> ¿Cómo te fue? Abre ahora el link de la versión resuelta, que también está en la descripción, y compara tu código con el nuestro. Si encontraste los cinco errores, ¡excelente! Y si te faltó alguno, no te preocupes: eso también es aprender.
+
+**Pantalla:** abrir el fiddle «Lección 6 - Completed» y señalar los cinco cambios.
 
 ---
 
-## Escena 9 · 8:39–9:24 · Qué sigue
+## Escena 10 · Qué sigue
 
 **Pantalla:** Tarjeta con tres ideas: «Documentación de MDN en español», «Crea otra página: una receta, tu club o tu equipo favorito», «Lo que sigue: diseño adaptable y JavaScript». Mostrar la página principal de la documentación de MDN en español.
 
@@ -99,7 +131,7 @@
 
 ---
 
-## Escena 10 · 9:24–10:02 · Despedida
+## Escena 11 · Despedida
 
 **Pantalla:** Tarjeta «Lo que aprendiste en el curso» con seis líneas, una por lección. Después, una pantalla final: «¡Gracias por completar el curso!».
 

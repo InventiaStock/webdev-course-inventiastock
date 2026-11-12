@@ -1,6 +1,6 @@
 # Lección 5: Crear una página web sencilla
 
-**Duración prevista:** aproximadamente 12 minutos.
+**Duración prevista:** aproximadamente 13 minutos.
 **Herramienta:** JSFiddle.
 **Objetivo:** unir HTML y CSS para crear una página de perfil
 personal y aprender a encontrar un error.
@@ -302,3 +302,39 @@ Ya creaste una página de perfil.
 En la última lección verás los errores más comunes
 y cómo evitarlos.
 ¡Hasta pronto!
+
+Ampliación de la lección: repasos, pausas y cierre
+
+Estas escenas se agregaron al video para reforzar lo aprendido. Cada pregunta deja unos segundos de silencio para que el estudiante piense su respuesta.
+
+Repaso de HTML (antes de Escena 4: El CSS paso a paso)
+
+Pantalla: Tarjeta «Repaso rápido antes del estilo» y dos preguntas, con 6 segundos de silencio después de cada una. Al final, una tarjeta con las respuestas.
+
+Voz: Antes de darle estilo, hagamos un repaso rápido. Después de cada pregunta, pausa el video y piensa tu respuesta. Pregunta uno. ¿Qué etiqueta usamos para el encabezado de la página? Pregunta dos. ¿Qué hace la etiqueta section? Respuestas. Uno: la etiqueta header. Dos: section agrupa un bloque de contenido, como Sobre mí o Mis hobbies. ¡Muy bien! Ahora vamos con el ce ese ese.
+
+Repaso de CSS y pausa «adivina» (antes de Escena 6: Encontrar un error)
+
+Pantalla: Tarjeta «Repasemos el estilo» y dos preguntas, con 6 segundos de silencio cada una, y la tarjeta con las respuestas. Después, la tarjeta «Pausa y adivina» con 10 segundos de silencio.
+
+Voz: Repasemos el estilo. De nuevo, pausa el video y piensa tu respuesta. Pregunta uno. ¿Qué propiedad convierte la foto en un círculo? Pregunta dos. ¿Para qué usamos max width seiscientos píxeles en la etiqueta main? Respuestas. Uno: border radius, con el valor cincuenta por ciento. Dos: para que el contenido no se estire demasiado y se vea ordenado en el centro. ¡Excelente! Ahora un reto. Quitamos un pequeño símbolo en la regla de las tarjetas y el espacio interno desapareció. Pausa el video y piensa qué puede ser.
+
+Práctica ampliada (Escena 8: Reto final)
+
+Pantalla: La tarjeta de pausa dura 210 segundos (3 min 30 s). A mitad de la pausa aparece la tarjeta «Pista».
+
+Voz (a mitad de la pausa): Una pista: empieza por el encabezado y cambia solo una cosa a la vez.
+
+Silencio de práctica: 210 segundos (antes 120).
+
+Compara y hazla tuya (después de la práctica)
+
+Pantalla: Tarjeta «Compara tu página con la versión resuelta» con el enlace de Lección 5 - Completed. Después, la tarjeta «Hazla tuya» con cuatro ideas.
+
+Voz: ¿Cómo te fue? Abre ahora el link de la versión resuelta, que está en la descripción, y compara tu página con la nuestra. Si se ve distinta, no importa: lo importante es que sea tuya. Ahora, hazla tuya. Cambia los colores del encabezado, agrega una sección nueva, por ejemplo Mi comida favorita, y cambia el borde de tu foto. Prueba una cosa a la vez y mira el resultado.
+
+Último repaso (antes de Escena 9: Cierre)
+
+Pantalla: Tarjeta «Último repaso: tres preguntas rápidas», con 5 segundos de silencio después de cada pregunta, y la tarjeta de respuestas.
+
+Voz: Un último repaso de la lección. Tres preguntas rápidas. Pregunta uno. ¿Qué etiquetas usamos para organizar la página? Pregunta dos. ¿Qué hacemos primero, antes de escribir el código? Pregunta tres. Si un estilo de ce ese ese no se aplica, ¿qué revisas? Respuestas. Uno: header, main, section y footer. Dos: planificar tu perfil. Tres: el punto y coma, y que los nombres estén bien escritos. ¡Muy bien!
